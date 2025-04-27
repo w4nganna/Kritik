@@ -1,4 +1,4 @@
-# Kritik UI Evaluation
+# Kritik UI design
 
 Kritik is an educational platform dedicated to enhancing critical thinking through peer assessment and iterative processes. In this project, we focused on identifying potential areas for UI improvements by blending human insight with technological innovation. As a team, we addressed the challenges of the current interface, particularly for instructors responsible for creating and scheduling activities—by concentrating on improving the UI for university educators. This process pushed me to learn Figma and sparked a newfound passion for UI design, culminating in a high-fidelity prototype that truly embodied our vision.
 
