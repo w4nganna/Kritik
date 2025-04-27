@@ -16,6 +16,5 @@ Despite these challenges, the prototype achieved a System Usability Scale (SUS) 
 - **Enhance Formatting Tools:** Improve the legibility and descriptive clarity of toolbar icons.  
 - **Revise Calendar Interface:** Adjust the range calendar to better match the target users’ mental models of deadlines.
 
-Implementing these recommendations in future iterations will further streamline the user experience and reinforce Kritik’s mission of continuous, peer-driven learning.
-Link to Figma prototype: 
+Implementing these recommendations in future iterations will further streamline the user experience and reinforce Kritik’s mission of continuous, peer-driven learning. Click image below for a walkthrough.
 [![Screenshot 2025-02-23 174745](https://github.com/user-attachments/assets/b3335476-9cb9-4f6a-a565-40a38e96cf4a)](https://www.figma.com/proto/0q2M65VggDsyFdG6uOAn0O/Prototype?node-id=0-1&t=T16SmTZYLmOk7q4b-1)
